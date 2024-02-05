@@ -1,0 +1,54 @@
+ .rectangle {
+    width: 375px;
+    height: 88px; 
+    background: #FFFC00;
+ }
+  .login {
+    width: 263px;
+    height: 19px;
+    top: 372px;
+    left: 56px;
+    border: 1;
+  }
+  
+  a {
+    float: right;
+    color: #FFFC00;
+    background-color: #000000;
+    ;
+  }
+  
+  body {
+    background-color: white;
+    width: 263px;
+    height: 850px ;
+}
+  
+  #log {
+    width: 53px;
+    height: 21px;
+    top: 540px;
+    left: 161px;
+    font: HelveticaNeue;
+    font-weight: 400px;
+    size: 18px;
+    line-height: 21.11px;
+
+  }
+  
+  #key {
+width: 263px;
+height: 19px;
+top: 434px;
+left: 56px;
+border: 1px;
+
+  }
+  
+  #user {
+    width: 263px;
+height: 19px;
+top: 372px;
+left: 56px;
+border: 1px;
+  }
