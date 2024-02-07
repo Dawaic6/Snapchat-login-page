@@ -1,3 +1,152 @@
+<<<<<<< HEAD
+*{
+  margin: 0;
+  padding: 0;   
+ }
+ .contanier{
+ background-color: rgb(210, 212, 214);
+ display: flex;
+ justify-content: center;
+ position: relative;
+ margin: auto;
+ }
+ .snapchat{
+     width: 375px;
+     height: 600px;
+     position: relative;
+     background-color: white;
+     margin: auto;
+ 
+ }
+ .snap-logo{
+     height: 88px;
+     width: 375px;
+     background-color: #fffc00;
+     
+ }
+ .icon{
+     position: absolute;
+     width: 58px;
+     height: 58px;
+     right: 15px;
+     top: 15px;
+     border-radius: 50%;
+     display: flex;
+     align-items: center;
+     
+ }
+ .text1{
+     color: black;
+     font-size: 24px;
+     font-family: Helvetica;
+     font-weight: 400;
+     word-wrap: break-word;
+     text-align: center;
+     margin: 3px 0;
+ }
+ .btn button{
+     align-items: center;
+     width: 228px;
+     height: 48px;
+     background-color: black;
+     border-radius: 50px;
+     text-align: center;
+     margin: auto;
+     color: #fffc00;
+     border: none;
+ }
+ .upper, .form{
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   flex-direction: column;
+ }
+ .btn1 h3{
+     color: #bbbbbb;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 400;
+     word-wrap: break-word;
+ }
+ label{
+     color: #bbbbbb;
+     font-size: 12px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 400;
+     word-wrap: break-word;
+ }
+ input[type="email"],input[type="password"]{
+     width: 263px !important;
+     border: none !important;
+     border-bottom: 1px solid black !important;
+     outline-style: none !important;
+     border-radius: 0 !important;
+     line-height: normal !important;
+ }
+ .name{
+     margin-top: 20px;
+ }
+ .forget{
+     margin-top: 10px;
+     display: flex;
+     align-items: end;
+     flex-direction: column;
+   
+ }
+ .forget a{
+     text-decoration: none;
+     color: #0d46d9;
+     font-size: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 400;
+     word-wrap: break-word;
+     
+ 
+ }
+ form div:nth-child(6){
+     align-items: center;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+ }
+ input[type="submit"]{
+     margin-top: 20px;
+     width: 228px;
+     height: 48px;
+     background-color: #bbbbbb;
+     border: none;
+     border-radius: 50px;
+     color: white;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 400;
+     word-wrap: break-word;
+ 
+ }
+ span:first-child{
+     color: black;
+     font-size: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     word-wrap: break-word;
+     padding-right: 5px ;
+ }
+ span:last-child{
+     color: #626262;
+     font-size: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 400;
+     word-wrap: break-word;
+ }
+ .last-div{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     margin-top: 20px;
+ }
+ 
+ 
+=======
  .rectangle {
     width: 375px;
     height: 88px; 
@@ -52,3 +201,4 @@ top: 372px;
 left: 56px;
 border: 1px;
   }
+>>>>>>> a4bbd2594e62009b92b16e19e544fc86460951a2

@@ -1,3 +1,3 @@
 # Snapchat-login-page
 
-### by Cedric
+by  cedr
